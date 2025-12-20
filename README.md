@@ -1,2 +1,2 @@
-# billcortez-workspace
-Central workspace for ongoing professional work, documentation, and operational assets. Maintains organized, versioned records of active projects and reference materials.
+🧭 **Workspace**
+This repository serves as a central workspace for ongoing professional work, documentation, and operational assets. It maintains organized, versioned records of active projects, reference materials, and evolving initiatives.
