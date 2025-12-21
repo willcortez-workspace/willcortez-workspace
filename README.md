@@ -8,7 +8,7 @@ LinkedIn: https://linkedin.com
 ## 🔄 Recent Activity
 <!--START_SECTION:activity-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=billcortez-solutions&show_icons=true&hide_title=true)
+1. ❗ Opened issue [#1](https://github.com/billcortez-solutions/billcortez-solutions/issues/1) in [billcortez-solutions/billcortez-solutions](https://github.com/billcortez-solutions/billcortez-solutions)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billcortez-solutions&layout=compact)
 
