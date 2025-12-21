@@ -1,5 +1,7 @@
 name: Update README
 
+permissions:
+  contents: write  # allows pushing changes to repo
 on:
   schedule:
     - cron: "0 */12 * * *"
