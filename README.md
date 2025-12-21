@@ -5,7 +5,7 @@ This repository serves as a **central workspace** 🗂️ for ongoing profession
 ## 📊 Activity
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billcortez-solutions&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=billcortez-solutions&show_icons=true&hide_title=true)
 
 ## 🔄 Recent Activity
 <!--START_SECTION:activity-->
