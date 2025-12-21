@@ -10,6 +10,6 @@ LinkedIn: https://linkedin.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=billcortez-solutions&show_icons=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billcortez-solutions&layout=compact)
 
 <!--END_SECTION:activity-->
