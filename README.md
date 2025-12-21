@@ -4,3 +4,8 @@ This repository serves as a **central workspace** 🗂️ for ongoing profession
 
 
 LinkedIn: https://linkedin.com
+## 📊 Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=billcortez-solutions&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
