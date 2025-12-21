@@ -1,4 +1,6 @@
-name: Update README
+name: Updpermissions:
+
+contents: write  # allows pushing changes to repoate README
 
 on:
   schedule:
