@@ -8,12 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@v0.4.4
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.4.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
